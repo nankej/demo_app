@@ -30,6 +30,9 @@ gem 'pg'
 group :test do
   gem 'sqlite3', '1.3.6'
 end
+
+gem 'rails_12factor'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
